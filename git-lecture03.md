@@ -6,7 +6,7 @@
 - APサーバーの名前：PUMA
 - APサーバーのバージョン：５.６.７
 - サーバー起動（下）
-<img width="1299" alt="スクリーンショット 2024-01-10 15 50 31" src="https://github.com/nekoppy/RaiseTech/assets/53550588/ec217dc9-a2c5-434c-b755-a9aa460cf161">
+![アプリ起動](lecture.03.png)
 - サーバー終了し、再起動0K（control+Cで終了し、rails sで再起動）
 
 2. DBサーバーについて調べる
