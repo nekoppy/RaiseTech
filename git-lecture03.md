@@ -14,7 +14,10 @@
 - サンプルアプリケーションで使ったDBエンジン：MySQL
 - Cloud9で動作しているバージョン：8.0.35
 - DBサーバーを終了させ、引き続きアクセス可能か？について。
-  ＝＞sudo service mysqld stopで停止し、sudo service mysqld startで起動OK。
+###### sudo service mysqld stopで停止し、
+![DB終了](lecture03_1.png)
+###### sudo service mysqld startで起動
+![DB再起動](lecture03_2.png)
 - Railsの構成管理ツールの名前：Bundler
 
 ## 学び
