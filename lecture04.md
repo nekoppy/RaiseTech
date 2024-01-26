@@ -13,7 +13,7 @@
 * ![ec2_ssh](ec2_ssh.png)
 
 * EC2からRDSへ接続
-* ![ec2_rds](ec2_rds.png)
+* ![ec2_rds](ec2_rds-2.png)
 
 ## 感想
  AWSドキュメントやネット記事を見ながら、試行錯誤してどうにかEC２からRDSへ接続できた。
