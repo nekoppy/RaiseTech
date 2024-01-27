@@ -9,6 +9,12 @@
 * RDS
 ![rds](rds_sg_subnet.png)
 
+* RDSのセキュリティグループの内容の共有
+![sg](sg_.png)
+
+*RDSのサブネットグループに含まれているサブネット
+![subnet](sbnet_g.png)
+
 * EC2へSSH接続
 ![ec2_ssh](ec2_ssh.png)
 
