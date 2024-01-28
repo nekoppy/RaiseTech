@@ -1,24 +1,31 @@
 # 第4回課題
 
 * VPC
+
 ![VPC](vpc.png)
 
 * EC2
+
 ![EC2](ec20128.png)
 
 * RDS
+  
 ![rds](rds0128.png)
 
 * セキュリティグループの内容
+  
 ![sg](sg0128.png)
 
 * RDSのサブネットグループに含まれているサブネット
+  
 ![subnet](subnet0128.png)
 
 * EC2へSSH接続
+  
 ![ec2_ssh](ssh0128.png)
 
 * EC2からRDSへ接続
+  
 ![ec2_rds](sql0128.png)
 
 ## 感想
