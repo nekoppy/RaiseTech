@@ -16,9 +16,17 @@
   
 ![sg](sg0128.png)
 
+* RDSのセキュリティグループ
+
+![rds_sg](rds_sg0129.png)
+
 * RDSのサブネットグループに含まれているサブネット
   
 ![subnet](subnet0128.png)
+
+* RDSのサブネットグループに含まれるサブネットがパブリックかプライベートか判別できるエビデンス
+
+![subnet_detail](subnet0129.jpg)
 
 * EC2へSSH接続
   
