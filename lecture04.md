@@ -40,6 +40,10 @@
 
 * EC2からRDSへ接続
 
+　`sudo dnf update -y`
+
+ `sudo dnf install mariadb`
+
 　`mysql -h [エンドポイント] -P 3306 -u admin -p`
   
 ![ec2_rds](sql0128.png)
